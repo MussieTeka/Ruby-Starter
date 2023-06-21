@@ -31,8 +31,8 @@ To create a new project using this template, follow these steps:
   ```
 4. Run the following command to install the project dependencies:
 
-   ```bash
-   bundle install
+ ```bash
+   cd bundle install
   ```
 ## Code Style Enforcement
 This template includes Rubocop for code style enforcement. Rubocop helps maintain consistent code formatting and ensures adherence to Ruby community style guidelines.
