@@ -33,7 +33,8 @@ To create a new project using this template, follow these steps:
 
    ```bash
    bundle install
-  ```
+   ```
+
 ## Code Style Enforcement
 This template includes Rubocop for code style enforcement. Rubocop helps maintain consistent code formatting and ensures adherence to Ruby community style guidelines.
 
