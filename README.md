@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="mussie.png" alt="logo" width="300px"  height="300px" />
-</div>
+<img align="center" src="mussie.png" alt="logo" width="300px"  height="300px" />
 
 # Ruby Starter
 
@@ -44,7 +42,7 @@ To run Rubocop on your project, use the following command:
   ```
 Rubocop will analyze your Ruby code and provide feedback on style violations and potential improvements.
 
-## Code Style Enforcement
+## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 Before contributing, please make sure to familiarize yourself with the project's code of conduct.
