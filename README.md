@@ -1,4 +1,6 @@
-<img align="center" src="mussie.png" alt="logo" width="300px"  height="300px" />
+<div align="center">
+  <img src="mussie.png" alt="logo" width="300px"  height="300px" />
+</div>
 
 # Ruby Starter
 
